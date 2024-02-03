@@ -91,7 +91,296 @@
     "Tesla",
     "Jet Ski",
     "Fishing Rod",
-    "Fridge"
+    "Fridge",
+    "Water",
+    "Goldfish",
+    "Ash",
+    "Crash",
+    "Fireworks",
+    "Phoenix",
+    "Sun",
+    "Wasabi",
+    "Explosion",
+    "Lens",
+    "Reflection",
+    "Fireball",
+    "Snowman",
+    "Black Hole",
+    "Crack",
+    "Fire Ski",
+    "Boiled Fish",
+    "Burn",
+    "Solar",
+    "Fire Breath",
+    "Magnifying Glass",
+    "Big Bang",
+    "Firecracker",
+    "Universe",
+    "Boom",
+    "Beach",
+    "Mud",
+    "Oasis",
+    "Boat",
+    "Bird",
+    "Wine",
+    "Lake",
+    "Salt",
+    "Venus",
+    "Sea Serpent",
+    "River",
+    "Witch",
+    "Bottle",
+    "Puddle",
+    "Sponge",
+    "Ship",
+    "Splash",
+    "Microscope",
+    "Drain",
+    "Soup",
+    "Swamp",
+    "Penguin",
+    "Holy Water",
+    "Brine",
+    "Aphrodite",
+    "Leviathan",
+    "Wizard",
+    "Pond",
+    "Amoeba",
+    "Sink",
+    "Marsh",
+    "Salt Water",
+    "Whale",
+    "Zephyr",
+    "Window",
+    "Sailboat",
+    "Smell",
+    "Sphinx",
+    "Breeze",
+    "Air Conditioner",
+    "Sail",
+    "Wipers",
+    "Sunflower",
+    "Telescope",
+    "Fire Tornado",
+    "Fire Storm",
+    "Galaxy",
+    "Balloon",
+    "Mist",
+    "Angel",
+    "Paramecium",
+    "Curtain",
+    "Fart",
+    "Solar System",
+    "Parasail",
+    "Solar Wind",
+    "Thunderstorm",
+    "Steampunk",
+    "Captain Nemo",
+    "Camera",
+    "Time",
+    "Whistle",
+    "Steam Breath",
+    "Stew",
+    "Life",
+    "Broom",
+    "SpongeBob",
+    "Steamship",
+    "Love",
+    "Shower",
+    "Perfume",
+    "Humidifier",
+    "Space",
+    "Steam Tornado",
+    "Steam Storm",
+    "Airship",
+    "Nautilus",
+    "Photograph",
+    "Clock",
+    "Romance",
+    "Zeppelin",
+    "Periscope",
+    "Avalanche",
+    "Clean",
+    "Exhaust",
+    "Firework",
+    "Cyborg",
+    "Eclipse",
+    "Sneeze",
+    "Frost",
+    "Dark Matter",
+    "Nebula",
+    "Pirate",
+    "Smoker",
+    "Bacon",
+    "Planet",
+    "Vape",
+    "Pyramid",
+    "Smoke Signal",
+    "Astronomer",
+    "Devil",
+    "Gas",
+    "Aurora",
+    "Photographer",
+    "Cigar",
+    "Vampire",
+    "Spongebob",
+    "Incense",
+    "Led Zeppelin",
+    "Air",
+    "Pollution",
+    "Cough",
+    "Skull",
+    "Smoking",
+    "Ham",
+    "Mummy",
+    "Comet",
+    "Hell",
+    "Dracula",
+    "Prayer",
+    "Smoke on the Water",
+    "Smog",
+    "Meteor",
+    "Deep Purple",
+    "Racecar",
+    "Space Ship",
+    "Transformer",
+    "Fishing Boat",
+    "Freezer",
+    "Time Machine",
+    "Fire Engine",
+    "Tractor",
+    "Fuel",
+    "Saltwater",
+    "V8",
+    "Pump",
+    "Souped-up",
+    "Washing Machine",
+    "Oil",
+    "Hubble",
+    "Fire Truck",
+    "Space Shuttle",
+    "Parachute",
+    "Solar Sail",
+    "Spongecar",
+    "Marriage",
+    "Car Wash",
+    "Pig",
+    "Saturn",
+    "Choo Choo",
+    "SteamPunk",
+    "Piston",
+    "Engineer",
+    "Speed",
+    "Optimus Prime",
+    "Time Travel",
+    "Tank",
+    "Paraglider",
+    "Solar Engine",
+    "Divorce",
+    "Piggy Bank",
+    "Race",
+    "Jetpack",
+    "Earthquake",
+    "Ice Cream",
+    "Island",
+    "Unicorn",
+    "Mars",
+    "Echo",
+    "Pompeii",
+    "Cactus",
+    "Atlantis",
+    "Lava Ski",
+    "Firebird",
+    "Supernova",
+    "Earth",
+    "Hawaii",
+    "Popcorn",
+    "Vulcan",
+    "Krakken",
+    "Pumice",
+    "Krakatoa",
+    "Sailor",
+    "Sulfur",
+    "Lava Lamp",
+    "Star",
+    "SpongeBob SquarePants",
+    "Ammonite",
+    "Cybertron",
+    "Moon",
+    "Treasure",
+    "Baconator",
+    "Vapecano",
+    "Pork",
+    "Satan",
+    "Meteorite",
+    "Dinosaur",
+    "Soda",
+    "Laundry",
+    "Optimus Magma",
+    "Racer",
+    "Lava Cake",
+    "Pegasus",
+    "Olympus Mons",
+    "Popocatepetl",
+    "Spongeorc",
+    "Ammonoid",
+    "Megatron",
+    "Dirty Laundry",
+    "Dinobot",
+    "Mt. Vesuvius",
+    "Obsidian",
+    "Salamander",
+    "Magma",
+    "Surfboard",
+    "Gold",
+    "Clay",
+    "Stone Soup",
+    "Solar Flare",
+    "Bat",
+    "Pizza",
+    "Volcanicus",
+    "Lava Skier",
+    "Ammolite",
+    "Voltron",
+    "Mermaid",
+    "Wiper",
+    "Radio",
+    "Sunset",
+    "Seagull",
+    "Poseidon",
+    "Tuxedo",
+    "Crab",
+    "Shipwreck",
+    "Ciliate",
+    "Snap",
+    "Stairway to Heaven",
+    "Ham Radio",
+    "Titan",
+    "Sea Horse",
+    "Reverb",
+    "Microwave",
+    "Soundwave",
+    "Tide",
+    "Tidal Wave",
+    "Sea Monster",
+    "Pottery",
+    "Siren",
+    "Signal",
+    "Sunrise",
+    "Radio Wave",
+    "Seahorse",
+    "Radar",
+    "Amphora",
+    "Seashell",
+    "Sonar",
+    "Rainbow Trout",
+    "Zeus",
+    "Rime",
+    "Sandcastle",
+    "Flying Car",
+    "UFO",
+    "Robocloud",
+    "Kraken"
   ],
   "resultArray": [
     {
@@ -538,6 +827,1451 @@
       "result": "Fridge",
       "emoji": "🧊",
       "isNew": false
+    },
+    {
+      "result": "Water",
+      "emoji": "💧",
+      "isNew": false
+    },
+    {
+      "result": "Goldfish",
+      "emoji": "🐠",
+      "isNew": false
+    },
+    {
+      "result": "Ash",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Crash",
+      "emoji": "💥",
+      "isNew": false
+    },
+    {
+      "result": "Fireworks",
+      "emoji": "🎆",
+      "isNew": false
+    },
+    {
+      "result": "Phoenix",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    {
+      "result": "Sun",
+      "emoji": "☀️",
+      "isNew": false
+    },
+    {
+      "result": "Wasabi",
+      "emoji": "🌶️",
+      "isNew": false
+    },
+    {
+      "result": "Explosion",
+      "emoji": "💥",
+      "isNew": false
+    },
+    {
+      "result": "Lens",
+      "emoji": "🔍",
+      "isNew": false
+    },
+    {
+      "result": "Reflection",
+      "emoji": "💫",
+      "isNew": false
+    },
+    {
+      "result": "Fireball",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    {
+      "result": "Snowman",
+      "emoji": "☃️",
+      "isNew": false
+    },
+    {
+      "result": "Black Hole",
+      "emoji": "🕳️",
+      "isNew": false
+    },
+    {
+      "result": "Crack",
+      "emoji": "💥",
+      "isNew": false
+    },
+    {
+      "result": "Fire Ski",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    {
+      "result": "Boiled Fish",
+      "emoji": "🐟",
+      "isNew": false
+    },
+    {
+      "result": "Burn",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    {
+      "result": "Solar",
+      "emoji": "☀️",
+      "isNew": false
+    },
+    {
+      "result": "Fire Breath",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    {
+      "result": "Magnifying Glass",
+      "emoji": "🔍",
+      "isNew": false
+    },
+    {
+      "result": "Big Bang",
+      "emoji": "💥",
+      "isNew": false
+    },
+    {
+      "result": "Firecracker",
+      "emoji": "🧨",
+      "isNew": false
+    },
+    {
+      "result": "Universe",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Boom",
+      "emoji": "💥",
+      "isNew": false
+    },
+    {
+      "result": "Beach",
+      "emoji": "🏖️",
+      "isNew": false
+    },
+    {
+      "result": "Mud",
+      "emoji": "💩",
+      "isNew": false
+    },
+    {
+      "result": "Oasis",
+      "emoji": "🏜️",
+      "isNew": false
+    },
+    {
+      "result": "Boat",
+      "emoji": "🚤",
+      "isNew": false
+    },
+    {
+      "result": "Bird",
+      "emoji": "🐦",
+      "isNew": false
+    },
+    {
+      "result": "Wine",
+      "emoji": "🍷",
+      "isNew": false
+    },
+    {
+      "result": "Lake",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    {
+      "result": "Salt",
+      "emoji": "🧂",
+      "isNew": false
+    },
+    {
+      "result": "Venus",
+      "emoji": "♀️",
+      "isNew": false
+    },
+    {
+      "result": "Sea Serpent",
+      "emoji": "🐍",
+      "isNew": false
+    },
+    {
+      "result": "River",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    {
+      "result": "Witch",
+      "emoji": "🧙‍♀️",
+      "isNew": false
+    },
+    {
+      "result": "Bottle",
+      "emoji": "🍾",
+      "isNew": false
+    },
+    {
+      "result": "Puddle",
+      "emoji": "💦",
+      "isNew": false
+    },
+    {
+      "result": "Sponge",
+      "emoji": "🧽",
+      "isNew": false
+    },
+    {
+      "result": "Ship",
+      "emoji": "🚢",
+      "isNew": false
+    },
+    {
+      "result": "Splash",
+      "emoji": "💦",
+      "isNew": false
+    },
+    {
+      "result": "Microscope",
+      "emoji": "🔬",
+      "isNew": false
+    },
+    {
+      "result": "Drain",
+      "emoji": "🚽",
+      "isNew": false
+    },
+    {
+      "result": "Soup",
+      "emoji": "🍲",
+      "isNew": false
+    },
+    {
+      "result": "Swamp",
+      "emoji": "🐊",
+      "isNew": false
+    },
+    {
+      "result": "Penguin",
+      "emoji": "🐧",
+      "isNew": false
+    },
+    {
+      "result": "Holy Water",
+      "emoji": "💦",
+      "isNew": false
+    },
+    {
+      "result": "Brine",
+      "emoji": "🧂",
+      "isNew": false
+    },
+    {
+      "result": "Aphrodite",
+      "emoji": "💘",
+      "isNew": false
+    },
+    {
+      "result": "Leviathan",
+      "emoji": "🐋",
+      "isNew": false
+    },
+    {
+      "result": "Wizard",
+      "emoji": "🧙‍♂️",
+      "isNew": false
+    },
+    {
+      "result": "Pond",
+      "emoji": "🐸",
+      "isNew": false
+    },
+    {
+      "result": "Amoeba",
+      "emoji": "🔬",
+      "isNew": false
+    },
+    {
+      "result": "Sink",
+      "emoji": "🚿",
+      "isNew": false
+    },
+    {
+      "result": "Marsh",
+      "emoji": "🌿",
+      "isNew": false
+    },
+    {
+      "result": "Salt Water",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    {
+      "result": "Whale",
+      "emoji": "🐳",
+      "isNew": false
+    },
+    {
+      "result": "Zephyr",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Window",
+      "emoji": "🪟",
+      "isNew": false
+    },
+    {
+      "result": "Sailboat",
+      "emoji": "⛵️",
+      "isNew": false
+    },
+    {
+      "result": "Smell",
+      "emoji": "👃",
+      "isNew": false
+    },
+    {
+      "result": "Sphinx",
+      "emoji": "🐫",
+      "isNew": false
+    },
+    {
+      "result": "Breeze",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Air Conditioner",
+      "emoji": "🏢",
+      "isNew": false
+    },
+    {
+      "result": "Sail",
+      "emoji": "⛵️",
+      "isNew": false
+    },
+    {
+      "result": "Wipers",
+      "emoji": "💦",
+      "isNew": false
+    },
+    {
+      "result": "Sunflower",
+      "emoji": "🌻",
+      "isNew": false
+    },
+    {
+      "result": "Telescope",
+      "emoji": "🔭",
+      "isNew": false
+    },
+    {
+      "result": "Fire Tornado",
+      "emoji": "🌪️",
+      "isNew": false
+    },
+    {
+      "result": "Fire Storm",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    {
+      "result": "Galaxy",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Balloon",
+      "emoji": "🎈",
+      "isNew": false
+    },
+    {
+      "result": "Mist",
+      "emoji": "🌫️",
+      "isNew": false
+    },
+    {
+      "result": "Angel",
+      "emoji": "👼",
+      "isNew": false
+    },
+    {
+      "result": "Paramecium",
+      "emoji": "🦠",
+      "isNew": false
+    },
+    {
+      "result": "Curtain",
+      "emoji": "🎀",
+      "isNew": false
+    },
+    {
+      "result": "Fart",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Solar System",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Parasail",
+      "emoji": "🪂",
+      "isNew": false
+    },
+    {
+      "result": "Solar Wind",
+      "emoji": "🌬️",
+      "isNew": false
+    },
+    {
+      "result": "Thunderstorm",
+      "emoji": "⛈️",
+      "isNew": false
+    },
+    {
+      "result": "Steampunk",
+      "emoji": "🕯️",
+      "isNew": false
+    },
+    {
+      "result": "Captain Nemo",
+      "emoji": "🐳",
+      "isNew": false
+    },
+    {
+      "result": "Camera",
+      "emoji": "📷",
+      "isNew": false
+    },
+    {
+      "result": "Time",
+      "emoji": "⏰",
+      "isNew": false
+    },
+    {
+      "result": "Whistle",
+      "emoji": "🎶",
+      "isNew": false
+    },
+    {
+      "result": "Steam Breath",
+      "emoji": "🌫️",
+      "isNew": false
+    },
+    {
+      "result": "Stew",
+      "emoji": "🍲",
+      "isNew": false
+    },
+    {
+      "result": "Life",
+      "emoji": "🌱",
+      "isNew": false
+    },
+    {
+      "result": "Broom",
+      "emoji": "🧹",
+      "isNew": false
+    },
+    {
+      "result": "SpongeBob",
+      "emoji": "🍍",
+      "isNew": false
+    },
+    {
+      "result": "Steamship",
+      "emoji": "🚢",
+      "isNew": false
+    },
+    {
+      "result": "Love",
+      "emoji": "❤️",
+      "isNew": false
+    },
+    {
+      "result": "Shower",
+      "emoji": "🚿",
+      "isNew": false
+    },
+    {
+      "result": "Perfume",
+      "emoji": "👃",
+      "isNew": false
+    },
+    {
+      "result": "Humidifier",
+      "emoji": "💧",
+      "isNew": false
+    },
+    {
+      "result": "Space",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Steam Tornado",
+      "emoji": "🌪️",
+      "isNew": false
+    },
+    {
+      "result": "Steam Storm",
+      "emoji": "🌪️",
+      "isNew": false
+    },
+    {
+      "result": "Airship",
+      "emoji": "🛩️",
+      "isNew": false
+    },
+    {
+      "result": "Nautilus",
+      "emoji": "🐚",
+      "isNew": false
+    },
+    {
+      "result": "Photograph",
+      "emoji": "📷",
+      "isNew": false
+    },
+    {
+      "result": "Clock",
+      "emoji": "⏰",
+      "isNew": false
+    },
+    {
+      "result": "Romance",
+      "emoji": "💘",
+      "isNew": false
+    },
+    {
+      "result": "Zeppelin",
+      "emoji": "🎈",
+      "isNew": false
+    },
+    {
+      "result": "Periscope",
+      "emoji": "📡",
+      "isNew": false
+    },
+    {
+      "result": "Avalanche",
+      "emoji": "🌨️",
+      "isNew": false
+    },
+    {
+      "result": "Clean",
+      "emoji": "🧼",
+      "isNew": false
+    },
+    {
+      "result": "Exhaust",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Firework",
+      "emoji": "🎆",
+      "isNew": false
+    },
+    {
+      "result": "Cyborg",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    {
+      "result": "Eclipse",
+      "emoji": "🌑",
+      "isNew": false
+    },
+    {
+      "result": "Sneeze",
+      "emoji": "🤧",
+      "isNew": false
+    },
+    {
+      "result": "Frost",
+      "emoji": "❄️",
+      "isNew": false
+    },
+    {
+      "result": "Dark Matter",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Nebula",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Pirate",
+      "emoji": "🏴‍☠️",
+      "isNew": false
+    },
+    {
+      "result": "Smoker",
+      "emoji": "🚬",
+      "isNew": false
+    },
+    {
+      "result": "Bacon",
+      "emoji": "🥓",
+      "isNew": false
+    },
+    {
+      "result": "Planet",
+      "emoji": "🪐",
+      "isNew": false
+    },
+    {
+      "result": "Vape",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Pyramid",
+      "emoji": "🗿",
+      "isNew": false
+    },
+    {
+      "result": "Smoke Signal",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Astronomer",
+      "emoji": "🔭",
+      "isNew": false
+    },
+    {
+      "result": "Devil",
+      "emoji": "😈",
+      "isNew": false
+    },
+    {
+      "result": "Gas",
+      "emoji": "⛽",
+      "isNew": false
+    },
+    {
+      "result": "Aurora",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Photographer",
+      "emoji": "📷",
+      "isNew": false
+    },
+    {
+      "result": "Cigar",
+      "emoji": "🚬",
+      "isNew": false
+    },
+    {
+      "result": "Vampire",
+      "emoji": "🧛",
+      "isNew": false
+    },
+    {
+      "result": "Spongebob",
+      "emoji": "🍍",
+      "isNew": false
+    },
+    {
+      "result": "Incense",
+      "emoji": "🕯️",
+      "isNew": false
+    },
+    {
+      "result": "Led Zeppelin",
+      "emoji": "🎸",
+      "isNew": false
+    },
+    {
+      "result": "Air",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Pollution",
+      "emoji": "🌫️",
+      "isNew": false
+    },
+    {
+      "result": "Cough",
+      "emoji": "🤧",
+      "isNew": false
+    },
+    {
+      "result": "Skull",
+      "emoji": "💀",
+      "isNew": false
+    },
+    {
+      "result": "Smoking",
+      "emoji": "🚬",
+      "isNew": false
+    },
+    {
+      "result": "Ham",
+      "emoji": "🍖",
+      "isNew": false
+    },
+    {
+      "result": "Mummy",
+      "emoji": "🧟",
+      "isNew": false
+    },
+    {
+      "result": "Comet",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Hell",
+      "emoji": "👿",
+      "isNew": false
+    },
+    {
+      "result": "Dracula",
+      "emoji": "🧛",
+      "isNew": false
+    },
+    {
+      "result": "Prayer",
+      "emoji": "🙏",
+      "isNew": false
+    },
+    {
+      "result": "Smoke on the Water",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Smog",
+      "emoji": "🌫️",
+      "isNew": false
+    },
+    {
+      "result": "Meteor",
+      "emoji": "💫",
+      "isNew": false
+    },
+    {
+      "result": "Deep Purple",
+      "emoji": "🎸",
+      "isNew": false
+    },
+    {
+      "result": "Racecar",
+      "emoji": "🏎️",
+      "isNew": false
+    },
+    {
+      "result": "Space Ship",
+      "emoji": "🚀",
+      "isNew": false
+    },
+    {
+      "result": "Transformer",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    {
+      "result": "Fishing Boat",
+      "emoji": "🎣",
+      "isNew": false
+    },
+    {
+      "result": "Freezer",
+      "emoji": "🧊",
+      "isNew": false
+    },
+    {
+      "result": "Time Machine",
+      "emoji": "⏰",
+      "isNew": false
+    },
+    {
+      "result": "Fire Engine",
+      "emoji": "🚒",
+      "isNew": false
+    },
+    {
+      "result": "Tractor",
+      "emoji": "🚜",
+      "isNew": false
+    },
+    {
+      "result": "Fuel",
+      "emoji": "⛽",
+      "isNew": false
+    },
+    {
+      "result": "Saltwater",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    {
+      "result": "V8",
+      "emoji": "🚗",
+      "isNew": false
+    },
+    {
+      "result": "Pump",
+      "emoji": "🎃",
+      "isNew": false
+    },
+    {
+      "result": "Souped-up",
+      "emoji": "🚗",
+      "isNew": false
+    },
+    {
+      "result": "Washing Machine",
+      "emoji": "🧺",
+      "isNew": false
+    },
+    {
+      "result": "Oil",
+      "emoji": "🛢️",
+      "isNew": false
+    },
+    {
+      "result": "Hubble",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Fire Truck",
+      "emoji": "🚒",
+      "isNew": false
+    },
+    {
+      "result": "Space Shuttle",
+      "emoji": "🚀",
+      "isNew": false
+    },
+    {
+      "result": "Parachute",
+      "emoji": "🪂",
+      "isNew": false
+    },
+    {
+      "result": "Solar Sail",
+      "emoji": "☀️",
+      "isNew": false
+    },
+    {
+      "result": "Spongecar",
+      "emoji": "🧽",
+      "isNew": false
+    },
+    {
+      "result": "Marriage",
+      "emoji": "💍",
+      "isNew": false
+    },
+    {
+      "result": "Car Wash",
+      "emoji": "🚗",
+      "isNew": false
+    },
+    {
+      "result": "Pig",
+      "emoji": "🐷",
+      "isNew": false
+    },
+    {
+      "result": "Saturn",
+      "emoji": "🪐",
+      "isNew": false
+    },
+    {
+      "result": "Choo Choo",
+      "emoji": "🚂",
+      "isNew": false
+    },
+    {
+      "result": "SteamPunk",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Piston",
+      "emoji": "🔧",
+      "isNew": false
+    },
+    {
+      "result": "Engineer",
+      "emoji": "👷",
+      "isNew": false
+    },
+    {
+      "result": "Speed",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Optimus Prime",
+      "emoji": "🚚",
+      "isNew": false
+    },
+    {
+      "result": "Time Travel",
+      "emoji": "⏰",
+      "isNew": false
+    },
+    {
+      "result": "Tank",
+      "emoji": "🛢️",
+      "isNew": false
+    },
+    {
+      "result": "Paraglider",
+      "emoji": "🪂",
+      "isNew": false
+    },
+    {
+      "result": "Solar Engine",
+      "emoji": "☀️",
+      "isNew": false
+    },
+    {
+      "result": "Divorce",
+      "emoji": "💔",
+      "isNew": false
+    },
+    {
+      "result": "Piggy Bank",
+      "emoji": "💰",
+      "isNew": false
+    },
+    {
+      "result": "Race",
+      "emoji": "🏁",
+      "isNew": false
+    },
+    {
+      "result": "Jetpack",
+      "emoji": "🛸",
+      "isNew": false
+    },
+    {
+      "result": "Earthquake",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Ice Cream",
+      "emoji": "🍦",
+      "isNew": false
+    },
+    {
+      "result": "Island",
+      "emoji": "🏝️",
+      "isNew": false
+    },
+    {
+      "result": "Unicorn",
+      "emoji": "🦄",
+      "isNew": false
+    },
+    {
+      "result": "Mars",
+      "emoji": "🪐",
+      "isNew": false
+    },
+    {
+      "result": "Echo",
+      "emoji": "👯",
+      "isNew": false
+    },
+    {
+      "result": "Pompeii",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Cactus",
+      "emoji": "🌵",
+      "isNew": false
+    },
+    {
+      "result": "Atlantis",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    {
+      "result": "Lava Ski",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Firebird",
+      "emoji": "🐦",
+      "isNew": false
+    },
+    {
+      "result": "Supernova",
+      "emoji": "🌠",
+      "isNew": false
+    },
+    {
+      "result": "Earth",
+      "emoji": "🌎",
+      "isNew": false
+    },
+    {
+      "result": "Hawaii",
+      "emoji": "🌺",
+      "isNew": false
+    },
+    {
+      "result": "Popcorn",
+      "emoji": "🍿",
+      "isNew": false
+    },
+    {
+      "result": "Vulcan",
+      "emoji": "🖖",
+      "isNew": false
+    },
+    {
+      "result": "Krakken",
+      "emoji": "🐙",
+      "isNew": false
+    },
+    {
+      "result": "Pumice",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Krakatoa",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Sailor",
+      "emoji": "⛵️",
+      "isNew": false
+    },
+    {
+      "result": "Sulfur",
+      "emoji": "💩",
+      "isNew": false
+    },
+    {
+      "result": "Lava Lamp",
+      "emoji": "💡",
+      "isNew": false
+    },
+    {
+      "result": "Star",
+      "emoji": "⭐️",
+      "isNew": false
+    },
+    {
+      "result": "SpongeBob SquarePants",
+      "emoji": "🍍",
+      "isNew": false
+    },
+    {
+      "result": "Ammonite",
+      "emoji": "🦕",
+      "isNew": false
+    },
+    {
+      "result": "Cybertron",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    {
+      "result": "Moon",
+      "emoji": "🌙",
+      "isNew": false
+    },
+    {
+      "result": "Treasure",
+      "emoji": "💎",
+      "isNew": false
+    },
+    {
+      "result": "Baconator",
+      "emoji": "🍔",
+      "isNew": false
+    },
+    {
+      "result": "Vapecano",
+      "emoji": "💨",
+      "isNew": false
+    },
+    {
+      "result": "Pork",
+      "emoji": "🐷",
+      "isNew": false
+    },
+    {
+      "result": "Satan",
+      "emoji": "😈",
+      "isNew": false
+    },
+    {
+      "result": "Meteorite",
+      "emoji": "💫",
+      "isNew": false
+    },
+    {
+      "result": "Dinosaur",
+      "emoji": "🦖",
+      "isNew": false
+    },
+    {
+      "result": "Soda",
+      "emoji": "🥤",
+      "isNew": false
+    },
+    {
+      "result": "Laundry",
+      "emoji": "🧺",
+      "isNew": false
+    },
+    {
+      "result": "Optimus Magma",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Racer",
+      "emoji": "🏎️",
+      "isNew": false
+    },
+    {
+      "result": "Lava Cake",
+      "emoji": "🍮",
+      "isNew": false
+    },
+    {
+      "result": "Pegasus",
+      "emoji": "🦄",
+      "isNew": false
+    },
+    {
+      "result": "Olympus Mons",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Popocatepetl",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Spongeorc",
+      "emoji": "🧽",
+      "isNew": false
+    },
+    {
+      "result": "Ammonoid",
+      "emoji": "🦕",
+      "isNew": false
+    },
+    {
+      "result": "Megatron",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    {
+      "result": "Dirty Laundry",
+      "emoji": "👕",
+      "isNew": false
+    },
+    {
+      "result": "Dinobot",
+      "emoji": "🦖",
+      "isNew": false
+    },
+    {
+      "result": "Mt. Vesuvius",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Obsidian",
+      "emoji": "🔪",
+      "isNew": false
+    },
+    {
+      "result": "Salamander",
+      "emoji": "🐢",
+      "isNew": false
+    },
+    {
+      "result": "Magma",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Surfboard",
+      "emoji": "🏄",
+      "isNew": false
+    },
+    {
+      "result": "Gold",
+      "emoji": "💛",
+      "isNew": false
+    },
+    {
+      "result": "Clay",
+      "emoji": "🏺",
+      "isNew": false
+    },
+    {
+      "result": "Stone Soup",
+      "emoji": "🍲",
+      "isNew": false
+    },
+    {
+      "result": "Solar Flare",
+      "emoji": "🌞",
+      "isNew": false
+    },
+    {
+      "result": "Bat",
+      "emoji": "🦇",
+      "isNew": false
+    },
+    {
+      "result": "Pizza",
+      "emoji": "🍕",
+      "isNew": false
+    },
+    {
+      "result": "Volcanicus",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Lava Skier",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    {
+      "result": "Ammolite",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    {
+      "result": "Voltron",
+      "emoji": "🐉",
+      "isNew": false
+    },
+    {
+      "result": "Mermaid",
+      "emoji": "🧜‍♀️",
+      "isNew": false
+    },
+    {
+      "result": "Wiper",
+      "emoji": "🚿",
+      "isNew": false
+    },
+    {
+      "result": "Radio",
+      "emoji": "📻",
+      "isNew": false
+    },
+    {
+      "result": "Sunset",
+      "emoji": "🌅",
+      "isNew": false
+    },
+    {
+      "result": "Seagull",
+      "emoji": "🐦",
+      "isNew": false
+    },
+    {
+      "result": "Poseidon",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    {
+      "result": "Tuxedo",
+      "emoji": "🎩",
+      "isNew": false
+    },
+    {
+      "result": "Crab",
+      "emoji": "🦀",
+      "isNew": false
+    },
+    {
+      "result": "Shipwreck",
+      "emoji": "🚢",
+      "isNew": false
+    },
+    {
+      "result": "Ciliate",
+      "emoji": "🔬",
+      "isNew": false
+    },
+    {
+      "result": "Snap",
+      "emoji": "👻",
+      "isNew": false
+    },
+    {
+      "result": "Stairway to Heaven",
+      "emoji": "🎸",
+      "isNew": false
+    },
+    {
+      "result": "Ham Radio",
+      "emoji": "📻",
+      "isNew": false
+    },
+    {
+      "result": "Titan",
+      "emoji": "🌎",
+      "isNew": false
+    },
+    {
+      "result": "Sea Horse",
+      "emoji": "🦑",
+      "isNew": false
+    },
+    {
+      "result": "Reverb",
+      "emoji": "🎸",
+      "isNew": false
+    },
+    {
+      "result": "Microwave",
+      "emoji": "🍳",
+      "isNew": false
+    },
+    {
+      "result": "Soundwave",
+      "emoji": "🔉",
+      "isNew": false
+    },
+    {
+      "result": "Tide",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    {
+      "result": "Tidal Wave",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    {
+      "result": "Sea Monster",
+      "emoji": "🐙",
+      "isNew": false
+    },
+    {
+      "result": "Pottery",
+      "emoji": "🏺",
+      "isNew": false
+    },
+    {
+      "result": "Siren",
+      "emoji": "🚨",
+      "isNew": false
+    },
+    {
+      "result": "Signal",
+      "emoji": "📶",
+      "isNew": false
+    },
+    {
+      "result": "Sunrise",
+      "emoji": "🌅",
+      "isNew": false
+    },
+    {
+      "result": "Radio Wave",
+      "emoji": "📻",
+      "isNew": false
+    },
+    {
+      "result": "Seahorse",
+      "emoji": "🐠",
+      "isNew": false
+    },
+    {
+      "result": "Radar",
+      "emoji": "📡",
+      "isNew": false
+    },
+    {
+      "result": "Amphora",
+      "emoji": "🏺",
+      "isNew": false
+    },
+    {
+      "result": "Seashell",
+      "emoji": "🐚",
+      "isNew": false
+    },
+    {
+      "result": "Sonar",
+      "emoji": "🔭",
+      "isNew": false
+    },
+    {
+      "result": "Rainbow Trout",
+      "emoji": "🐟",
+      "isNew": false
+    },
+    {
+      "result": "Zeus",
+      "emoji": "⚡️",
+      "isNew": false
+    },
+    {
+      "result": "Rime",
+      "emoji": "🌨️",
+      "isNew": false
+    },
+    {
+      "result": "Sandcastle",
+      "emoji": "🏖️",
+      "isNew": false
+    },
+    {
+      "result": "Flying Car",
+      "emoji": "🚗",
+      "isNew": false
+    },
+    {
+      "result": "UFO",
+      "emoji": "🛸",
+      "isNew": false
+    },
+    {
+      "result": "Robocloud",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    {
+      "result": "Kraken",
+      "emoji": "🐙",
+      "isNew": false
     }
   ],
   "uniqueItems": [
@@ -629,7 +2363,296 @@
     "Tesla",
     "Jet Ski",
     "Fishing Rod",
-    "Fridge"
+    "Fridge",
+    "Water",
+    "Goldfish",
+    "Ash",
+    "Crash",
+    "Fireworks",
+    "Phoenix",
+    "Sun",
+    "Wasabi",
+    "Explosion",
+    "Lens",
+    "Reflection",
+    "Fireball",
+    "Snowman",
+    "Black Hole",
+    "Crack",
+    "Fire Ski",
+    "Boiled Fish",
+    "Burn",
+    "Solar",
+    "Fire Breath",
+    "Magnifying Glass",
+    "Big Bang",
+    "Firecracker",
+    "Universe",
+    "Boom",
+    "Beach",
+    "Mud",
+    "Oasis",
+    "Boat",
+    "Bird",
+    "Wine",
+    "Lake",
+    "Salt",
+    "Venus",
+    "Sea Serpent",
+    "River",
+    "Witch",
+    "Bottle",
+    "Puddle",
+    "Sponge",
+    "Ship",
+    "Splash",
+    "Microscope",
+    "Drain",
+    "Soup",
+    "Swamp",
+    "Penguin",
+    "Holy Water",
+    "Brine",
+    "Aphrodite",
+    "Leviathan",
+    "Wizard",
+    "Pond",
+    "Amoeba",
+    "Sink",
+    "Marsh",
+    "Salt Water",
+    "Whale",
+    "Zephyr",
+    "Window",
+    "Sailboat",
+    "Smell",
+    "Sphinx",
+    "Breeze",
+    "Air Conditioner",
+    "Sail",
+    "Wipers",
+    "Sunflower",
+    "Telescope",
+    "Fire Tornado",
+    "Fire Storm",
+    "Galaxy",
+    "Balloon",
+    "Mist",
+    "Angel",
+    "Paramecium",
+    "Curtain",
+    "Fart",
+    "Solar System",
+    "Parasail",
+    "Solar Wind",
+    "Thunderstorm",
+    "Steampunk",
+    "Captain Nemo",
+    "Camera",
+    "Time",
+    "Whistle",
+    "Steam Breath",
+    "Stew",
+    "Life",
+    "Broom",
+    "SpongeBob",
+    "Steamship",
+    "Love",
+    "Shower",
+    "Perfume",
+    "Humidifier",
+    "Space",
+    "Steam Tornado",
+    "Steam Storm",
+    "Airship",
+    "Nautilus",
+    "Photograph",
+    "Clock",
+    "Romance",
+    "Zeppelin",
+    "Periscope",
+    "Avalanche",
+    "Clean",
+    "Exhaust",
+    "Firework",
+    "Cyborg",
+    "Eclipse",
+    "Sneeze",
+    "Frost",
+    "Dark Matter",
+    "Nebula",
+    "Pirate",
+    "Smoker",
+    "Bacon",
+    "Planet",
+    "Vape",
+    "Pyramid",
+    "Smoke Signal",
+    "Astronomer",
+    "Devil",
+    "Gas",
+    "Aurora",
+    "Photographer",
+    "Cigar",
+    "Vampire",
+    "Spongebob",
+    "Incense",
+    "Led Zeppelin",
+    "Air",
+    "Pollution",
+    "Cough",
+    "Skull",
+    "Smoking",
+    "Ham",
+    "Mummy",
+    "Comet",
+    "Hell",
+    "Dracula",
+    "Prayer",
+    "Smoke on the Water",
+    "Smog",
+    "Meteor",
+    "Deep Purple",
+    "Racecar",
+    "Space Ship",
+    "Transformer",
+    "Fishing Boat",
+    "Freezer",
+    "Time Machine",
+    "Fire Engine",
+    "Tractor",
+    "Fuel",
+    "Saltwater",
+    "V8",
+    "Pump",
+    "Souped-up",
+    "Washing Machine",
+    "Oil",
+    "Hubble",
+    "Fire Truck",
+    "Space Shuttle",
+    "Parachute",
+    "Solar Sail",
+    "Spongecar",
+    "Marriage",
+    "Car Wash",
+    "Pig",
+    "Saturn",
+    "Choo Choo",
+    "SteamPunk",
+    "Piston",
+    "Engineer",
+    "Speed",
+    "Optimus Prime",
+    "Time Travel",
+    "Tank",
+    "Paraglider",
+    "Solar Engine",
+    "Divorce",
+    "Piggy Bank",
+    "Race",
+    "Jetpack",
+    "Earthquake",
+    "Ice Cream",
+    "Island",
+    "Unicorn",
+    "Mars",
+    "Echo",
+    "Pompeii",
+    "Cactus",
+    "Atlantis",
+    "Lava Ski",
+    "Firebird",
+    "Supernova",
+    "Earth",
+    "Hawaii",
+    "Popcorn",
+    "Vulcan",
+    "Krakken",
+    "Pumice",
+    "Krakatoa",
+    "Sailor",
+    "Sulfur",
+    "Lava Lamp",
+    "Star",
+    "SpongeBob SquarePants",
+    "Ammonite",
+    "Cybertron",
+    "Moon",
+    "Treasure",
+    "Baconator",
+    "Vapecano",
+    "Pork",
+    "Satan",
+    "Meteorite",
+    "Dinosaur",
+    "Soda",
+    "Laundry",
+    "Optimus Magma",
+    "Racer",
+    "Lava Cake",
+    "Pegasus",
+    "Olympus Mons",
+    "Popocatepetl",
+    "Spongeorc",
+    "Ammonoid",
+    "Megatron",
+    "Dirty Laundry",
+    "Dinobot",
+    "Mt. Vesuvius",
+    "Obsidian",
+    "Salamander",
+    "Magma",
+    "Surfboard",
+    "Gold",
+    "Clay",
+    "Stone Soup",
+    "Solar Flare",
+    "Bat",
+    "Pizza",
+    "Volcanicus",
+    "Lava Skier",
+    "Ammolite",
+    "Voltron",
+    "Mermaid",
+    "Wiper",
+    "Radio",
+    "Sunset",
+    "Seagull",
+    "Poseidon",
+    "Tuxedo",
+    "Crab",
+    "Shipwreck",
+    "Ciliate",
+    "Snap",
+    "Stairway to Heaven",
+    "Ham Radio",
+    "Titan",
+    "Sea Horse",
+    "Reverb",
+    "Microwave",
+    "Soundwave",
+    "Tide",
+    "Tidal Wave",
+    "Sea Monster",
+    "Pottery",
+    "Siren",
+    "Signal",
+    "Sunrise",
+    "Radio Wave",
+    "Seahorse",
+    "Radar",
+    "Amphora",
+    "Seashell",
+    "Sonar",
+    "Rainbow Trout",
+    "Zeus",
+    "Rime",
+    "Sandcastle",
+    "Flying Car",
+    "UFO",
+    "Robocloud",
+    "Kraken"
   ],
   "recipes": {
     "fire + water": {
@@ -1075,6 +3098,1451 @@
     "Engine + Refrigerator": {
       "result": "Fridge",
       "emoji": "🧊",
+      "isNew": false
+    },
+    "fire + Ice": {
+      "result": "Water",
+      "emoji": "💧",
+      "isNew": false
+    },
+    "fire + Fishbowl": {
+      "result": "Goldfish",
+      "emoji": "🐠",
+      "isNew": false
+    },
+    "fire + Dust": {
+      "result": "Ash",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "fire + Airplane": {
+      "result": "Crash",
+      "emoji": "💥",
+      "isNew": false
+    },
+    "fire + Kite": {
+      "result": "Fireworks",
+      "emoji": "🎆",
+      "isNew": false
+    },
+    "fire + Flying": {
+      "result": "Phoenix",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    "fire + Nothing": {
+      "result": "Sun",
+      "emoji": "☀️",
+      "isNew": false
+    },
+    "fire + Sushi": {
+      "result": "Wasabi",
+      "emoji": "🌶️",
+      "isNew": false
+    },
+    "fire + Energy": {
+      "result": "Explosion",
+      "emoji": "💥",
+      "isNew": false
+    },
+    "fire + Glass": {
+      "result": "Lens",
+      "emoji": "🔍",
+      "isNew": false
+    },
+    "fire + Mirror": {
+      "result": "Reflection",
+      "emoji": "💫",
+      "isNew": false
+    },
+    "fire + Ghost": {
+      "result": "Fireball",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    "fire + Snowmobile": {
+      "result": "Snowman",
+      "emoji": "☃️",
+      "isNew": false
+    },
+    "fire + Vacuum": {
+      "result": "Black Hole",
+      "emoji": "🕳️",
+      "isNew": false
+    },
+    "fire + Windshield": {
+      "result": "Crack",
+      "emoji": "💥",
+      "isNew": false
+    },
+    "fire + Jet Ski": {
+      "result": "Fire Ski",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    "fire + Goldfish": {
+      "result": "Boiled Fish",
+      "emoji": "🐟",
+      "isNew": false
+    },
+    "fire + Crash": {
+      "result": "Burn",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    "fire + Sun": {
+      "result": "Solar",
+      "emoji": "☀️",
+      "isNew": false
+    },
+    "fire + Wasabi": {
+      "result": "Fire Breath",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    "fire + Lens": {
+      "result": "Magnifying Glass",
+      "emoji": "🔍",
+      "isNew": false
+    },
+    "fire + Black Hole": {
+      "result": "Big Bang",
+      "emoji": "💥",
+      "isNew": false
+    },
+    "fire + Crack": {
+      "result": "Firecracker",
+      "emoji": "🧨",
+      "isNew": false
+    },
+    "fire + Big Bang": {
+      "result": "Universe",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "fire + Firecracker": {
+      "result": "Boom",
+      "emoji": "💥",
+      "isNew": false
+    },
+    "water + Sand": {
+      "result": "Beach",
+      "emoji": "🏖️",
+      "isNew": false
+    },
+    "water + Dust": {
+      "result": "Mud",
+      "emoji": "💩",
+      "isNew": false
+    },
+    "water + Dune": {
+      "result": "Oasis",
+      "emoji": "🏜️",
+      "isNew": false
+    },
+    "water + Airplane": {
+      "result": "Boat",
+      "emoji": "🚤",
+      "isNew": false
+    },
+    "water + Flying": {
+      "result": "Bird",
+      "emoji": "🐦",
+      "isNew": false
+    },
+    "water + Glass": {
+      "result": "Wine",
+      "emoji": "🍷",
+      "isNew": false
+    },
+    "water + Mirror": {
+      "result": "Lake",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    "water + Sweat": {
+      "result": "Salt",
+      "emoji": "🧂",
+      "isNew": false
+    },
+    "water + Statue": {
+      "result": "Venus",
+      "emoji": "♀️",
+      "isNew": false
+    },
+    "water + Dragon": {
+      "result": "Sea Serpent",
+      "emoji": "🐍",
+      "isNew": false
+    },
+    "water + Ozymandias": {
+      "result": "River",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    "water + Magic": {
+      "result": "Witch",
+      "emoji": "🧙‍♀️",
+      "isNew": false
+    },
+    "water + Genie": {
+      "result": "Bottle",
+      "emoji": "🍾",
+      "isNew": false
+    },
+    "water + Steamroller": {
+      "result": "Puddle",
+      "emoji": "💦",
+      "isNew": false
+    },
+    "water + Vacuum": {
+      "result": "Sponge",
+      "emoji": "🧽",
+      "isNew": false
+    },
+    "water + Rocket": {
+      "result": "Ship",
+      "emoji": "🚢",
+      "isNew": false
+    },
+    "water + Fireworks": {
+      "result": "Splash",
+      "emoji": "💦",
+      "isNew": false
+    },
+    "water + Lens": {
+      "result": "Microscope",
+      "emoji": "🔬",
+      "isNew": false
+    },
+    "water + Black Hole": {
+      "result": "Drain",
+      "emoji": "🚽",
+      "isNew": false
+    },
+    "water + Boiled Fish": {
+      "result": "Soup",
+      "emoji": "🍲",
+      "isNew": false
+    },
+    "water + Mud": {
+      "result": "Swamp",
+      "emoji": "🐊",
+      "isNew": false
+    },
+    "water + Bird": {
+      "result": "Penguin",
+      "emoji": "🐧",
+      "isNew": false
+    },
+    "water + Wine": {
+      "result": "Holy Water",
+      "emoji": "💦",
+      "isNew": false
+    },
+    "water + Salt": {
+      "result": "Brine",
+      "emoji": "🧂",
+      "isNew": false
+    },
+    "water + Venus": {
+      "result": "Aphrodite",
+      "emoji": "💘",
+      "isNew": false
+    },
+    "water + Sea Serpent": {
+      "result": "Leviathan",
+      "emoji": "🐋",
+      "isNew": false
+    },
+    "water + Witch": {
+      "result": "Wizard",
+      "emoji": "🧙‍♂️",
+      "isNew": false
+    },
+    "water + Puddle": {
+      "result": "Pond",
+      "emoji": "🐸",
+      "isNew": false
+    },
+    "water + Microscope": {
+      "result": "Amoeba",
+      "emoji": "🔬",
+      "isNew": false
+    },
+    "water + Drain": {
+      "result": "Sink",
+      "emoji": "🚿",
+      "isNew": false
+    },
+    "water + Swamp": {
+      "result": "Marsh",
+      "emoji": "🌿",
+      "isNew": false
+    },
+    "water + Brine": {
+      "result": "Salt Water",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    "water + Leviathan": {
+      "result": "Whale",
+      "emoji": "🐳",
+      "isNew": false
+    },
+    "wind + Train": {
+      "result": "Zephyr",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "wind + Glass": {
+      "result": "Window",
+      "emoji": "🪟",
+      "isNew": false
+    },
+    "wind + Steamboat": {
+      "result": "Sailboat",
+      "emoji": "⛵️",
+      "isNew": false
+    },
+    "wind + Sweat": {
+      "result": "Smell",
+      "emoji": "👃",
+      "isNew": false
+    },
+    "wind + Statue": {
+      "result": "Sphinx",
+      "emoji": "🐫",
+      "isNew": false
+    },
+    "wind + Ghost": {
+      "result": "Breeze",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "wind + Refrigerator": {
+      "result": "Air Conditioner",
+      "emoji": "🏢",
+      "isNew": false
+    },
+    "wind + Car": {
+      "result": "Sail",
+      "emoji": "⛵️",
+      "isNew": false
+    },
+    "wind + Windshield": {
+      "result": "Wipers",
+      "emoji": "💦",
+      "isNew": false
+    },
+    "wind + Sun": {
+      "result": "Sunflower",
+      "emoji": "🌻",
+      "isNew": false
+    },
+    "wind + Lens": {
+      "result": "Telescope",
+      "emoji": "🔭",
+      "isNew": false
+    },
+    "wind + Fireball": {
+      "result": "Fire Tornado",
+      "emoji": "🌪️",
+      "isNew": false
+    },
+    "wind + Fire Breath": {
+      "result": "Fire Storm",
+      "emoji": "🔥",
+      "isNew": false
+    },
+    "wind + Universe": {
+      "result": "Galaxy",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "wind + Wine": {
+      "result": "Balloon",
+      "emoji": "🎈",
+      "isNew": false
+    },
+    "wind + Swamp": {
+      "result": "Mist",
+      "emoji": "🌫️",
+      "isNew": false
+    },
+    "wind + Holy Water": {
+      "result": "Angel",
+      "emoji": "👼",
+      "isNew": false
+    },
+    "wind + Amoeba": {
+      "result": "Paramecium",
+      "emoji": "🦠",
+      "isNew": false
+    },
+    "wind + Window": {
+      "result": "Curtain",
+      "emoji": "🎀",
+      "isNew": false
+    },
+    "wind + Smell": {
+      "result": "Fart",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "wind + Galaxy": {
+      "result": "Solar System",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "wind + Paramecium": {
+      "result": "Parasail",
+      "emoji": "🪂",
+      "isNew": false
+    },
+    "wind + Solar System": {
+      "result": "Solar Wind",
+      "emoji": "🌬️",
+      "isNew": false
+    },
+    "Steam + Thunder": {
+      "result": "Thunderstorm",
+      "emoji": "⛈️",
+      "isNew": false
+    },
+    "Steam + Dragon": {
+      "result": "Steampunk",
+      "emoji": "🕯️",
+      "isNew": false
+    },
+    "Steam + Submarine": {
+      "result": "Captain Nemo",
+      "emoji": "🐳",
+      "isNew": false
+    },
+    "Steam + Lens": {
+      "result": "Camera",
+      "emoji": "📷",
+      "isNew": false
+    },
+    "Steam + Black Hole": {
+      "result": "Time",
+      "emoji": "⏰",
+      "isNew": false
+    },
+    "Steam + Crack": {
+      "result": "Whistle",
+      "emoji": "🎶",
+      "isNew": false
+    },
+    "Steam + Fire Breath": {
+      "result": "Steam Breath",
+      "emoji": "🌫️",
+      "isNew": false
+    },
+    "Steam + Wine": {
+      "result": "Stew",
+      "emoji": "🍲",
+      "isNew": false
+    },
+    "Steam + Venus": {
+      "result": "Life",
+      "emoji": "🌱",
+      "isNew": false
+    },
+    "Steam + Witch": {
+      "result": "Broom",
+      "emoji": "🧹",
+      "isNew": false
+    },
+    "Steam + Sponge": {
+      "result": "SpongeBob",
+      "emoji": "🍍",
+      "isNew": false
+    },
+    "Steam + Ship": {
+      "result": "Steamship",
+      "emoji": "🚢",
+      "isNew": false
+    },
+    "Steam + Aphrodite": {
+      "result": "Love",
+      "emoji": "❤️",
+      "isNew": false
+    },
+    "Steam + Sink": {
+      "result": "Shower",
+      "emoji": "🚿",
+      "isNew": false
+    },
+    "Steam + Smell": {
+      "result": "Perfume",
+      "emoji": "👃",
+      "isNew": false
+    },
+    "Steam + Air Conditioner": {
+      "result": "Humidifier",
+      "emoji": "💧",
+      "isNew": false
+    },
+    "Steam + Telescope": {
+      "result": "Space",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "Steam + Fire Tornado": {
+      "result": "Steam Tornado",
+      "emoji": "🌪️",
+      "isNew": false
+    },
+    "Steam + Fire Storm": {
+      "result": "Steam Storm",
+      "emoji": "🌪️",
+      "isNew": false
+    },
+    "Steam + Balloon": {
+      "result": "Airship",
+      "emoji": "🛩️",
+      "isNew": false
+    },
+    "Steam + Captain Nemo": {
+      "result": "Nautilus",
+      "emoji": "🐚",
+      "isNew": false
+    },
+    "Steam + Camera": {
+      "result": "Photograph",
+      "emoji": "📷",
+      "isNew": false
+    },
+    "Steam + Time": {
+      "result": "Clock",
+      "emoji": "⏰",
+      "isNew": false
+    },
+    "Steam + Love": {
+      "result": "Romance",
+      "emoji": "💘",
+      "isNew": false
+    },
+    "Steam + Airship": {
+      "result": "Zeppelin",
+      "emoji": "🎈",
+      "isNew": false
+    },
+    "Smoke + Submarine": {
+      "result": "Periscope",
+      "emoji": "📡",
+      "isNew": false
+    },
+    "Smoke + Snowmobile": {
+      "result": "Avalanche",
+      "emoji": "🌨️",
+      "isNew": false
+    },
+    "Smoke + Vacuum": {
+      "result": "Clean",
+      "emoji": "🧼",
+      "isNew": false
+    },
+    "Smoke + Car": {
+      "result": "Exhaust",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "Smoke + Rocket": {
+      "result": "Firework",
+      "emoji": "🎆",
+      "isNew": false
+    },
+    "Smoke + Robot": {
+      "result": "Cyborg",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    "Smoke + Sun": {
+      "result": "Eclipse",
+      "emoji": "🌑",
+      "isNew": false
+    },
+    "Smoke + Wasabi": {
+      "result": "Sneeze",
+      "emoji": "🤧",
+      "isNew": false
+    },
+    "Smoke + Snowman": {
+      "result": "Frost",
+      "emoji": "❄️",
+      "isNew": false
+    },
+    "Smoke + Black Hole": {
+      "result": "Dark Matter",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "Smoke + Universe": {
+      "result": "Nebula",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "Smoke + Boat": {
+      "result": "Pirate",
+      "emoji": "🏴‍☠️",
+      "isNew": false
+    },
+    "Smoke + Wine": {
+      "result": "Smoker",
+      "emoji": "🚬",
+      "isNew": false
+    },
+    "Smoke + Salt": {
+      "result": "Bacon",
+      "emoji": "🥓",
+      "isNew": false
+    },
+    "Smoke + Venus": {
+      "result": "Planet",
+      "emoji": "🪐",
+      "isNew": false
+    },
+    "Smoke + Whale": {
+      "result": "Vape",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "Smoke + Sphinx": {
+      "result": "Pyramid",
+      "emoji": "🗿",
+      "isNew": false
+    },
+    "Smoke + Sunflower": {
+      "result": "Smoke Signal",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "Smoke + Telescope": {
+      "result": "Astronomer",
+      "emoji": "🔭",
+      "isNew": false
+    },
+    "Smoke + Angel": {
+      "result": "Devil",
+      "emoji": "😈",
+      "isNew": false
+    },
+    "Smoke + Fart": {
+      "result": "Gas",
+      "emoji": "⛽",
+      "isNew": false
+    },
+    "Smoke + Solar Wind": {
+      "result": "Aurora",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "Smoke + Camera": {
+      "result": "Photographer",
+      "emoji": "📷",
+      "isNew": false
+    },
+    "Smoke + Time": {
+      "result": "Cigar",
+      "emoji": "🚬",
+      "isNew": false
+    },
+    "Smoke + Life": {
+      "result": "Vampire",
+      "emoji": "🧛",
+      "isNew": false
+    },
+    "Smoke + SpongeBob": {
+      "result": "Spongebob",
+      "emoji": "🍍",
+      "isNew": false
+    },
+    "Smoke + Perfume": {
+      "result": "Incense",
+      "emoji": "🕯️",
+      "isNew": false
+    },
+    "Smoke + Zeppelin": {
+      "result": "Led Zeppelin",
+      "emoji": "🎸",
+      "isNew": false
+    },
+    "Smoke + Clean": {
+      "result": "Air",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "Smoke + Exhaust": {
+      "result": "Pollution",
+      "emoji": "🌫️",
+      "isNew": false
+    },
+    "Smoke + Sneeze": {
+      "result": "Cough",
+      "emoji": "🤧",
+      "isNew": false
+    },
+    "Smoke + Pirate": {
+      "result": "Skull",
+      "emoji": "💀",
+      "isNew": false
+    },
+    "Smoke + Smoker": {
+      "result": "Smoking",
+      "emoji": "🚬",
+      "isNew": false
+    },
+    "Smoke + Bacon": {
+      "result": "Ham",
+      "emoji": "🍖",
+      "isNew": false
+    },
+    "Smoke + Pyramid": {
+      "result": "Mummy",
+      "emoji": "🧟",
+      "isNew": false
+    },
+    "Smoke + Astronomer": {
+      "result": "Comet",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "Smoke + Devil": {
+      "result": "Hell",
+      "emoji": "👿",
+      "isNew": false
+    },
+    "Smoke + Vampire": {
+      "result": "Dracula",
+      "emoji": "🧛",
+      "isNew": false
+    },
+    "Smoke + Incense": {
+      "result": "Prayer",
+      "emoji": "🙏",
+      "isNew": false
+    },
+    "Smoke + Led Zeppelin": {
+      "result": "Smoke on the Water",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "Smoke + Pollution": {
+      "result": "Smog",
+      "emoji": "🌫️",
+      "isNew": false
+    },
+    "Smoke + Comet": {
+      "result": "Meteor",
+      "emoji": "💫",
+      "isNew": false
+    },
+    "Smoke + Smoke on the Water": {
+      "result": "Deep Purple",
+      "emoji": "🎸",
+      "isNew": false
+    },
+    "Engine + Car": {
+      "result": "Racecar",
+      "emoji": "🏎️",
+      "isNew": false
+    },
+    "Engine + Rocket": {
+      "result": "Space Ship",
+      "emoji": "🚀",
+      "isNew": false
+    },
+    "Engine + Robot": {
+      "result": "Transformer",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    "Engine + Fishing Rod": {
+      "result": "Fishing Boat",
+      "emoji": "🎣",
+      "isNew": false
+    },
+    "Engine + Fridge": {
+      "result": "Freezer",
+      "emoji": "🧊",
+      "isNew": false
+    },
+    "Engine + Black Hole": {
+      "result": "Time Machine",
+      "emoji": "⏰",
+      "isNew": false
+    },
+    "Engine + Fire Ski": {
+      "result": "Fire Engine",
+      "emoji": "🚒",
+      "isNew": false
+    },
+    "Engine + Mud": {
+      "result": "Tractor",
+      "emoji": "🚜",
+      "isNew": false
+    },
+    "Engine + Wine": {
+      "result": "Fuel",
+      "emoji": "⛽",
+      "isNew": false
+    },
+    "Engine + Salt": {
+      "result": "Saltwater",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    "Engine + Venus": {
+      "result": "V8",
+      "emoji": "🚗",
+      "isNew": false
+    },
+    "Engine + Drain": {
+      "result": "Pump",
+      "emoji": "🎃",
+      "isNew": false
+    },
+    "Engine + Soup": {
+      "result": "Souped-up",
+      "emoji": "🚗",
+      "isNew": false
+    },
+    "Engine + Sink": {
+      "result": "Washing Machine",
+      "emoji": "🧺",
+      "isNew": false
+    },
+    "Engine + Sunflower": {
+      "result": "Oil",
+      "emoji": "🛢️",
+      "isNew": false
+    },
+    "Engine + Telescope": {
+      "result": "Hubble",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "Engine + Fire Tornado": {
+      "result": "Fire Truck",
+      "emoji": "🚒",
+      "isNew": false
+    },
+    "Engine + Solar System": {
+      "result": "Space Shuttle",
+      "emoji": "🚀",
+      "isNew": false
+    },
+    "Engine + Parasail": {
+      "result": "Parachute",
+      "emoji": "🪂",
+      "isNew": false
+    },
+    "Engine + Solar Wind": {
+      "result": "Solar Sail",
+      "emoji": "☀️",
+      "isNew": false
+    },
+    "Engine + SpongeBob": {
+      "result": "Spongecar",
+      "emoji": "🧽",
+      "isNew": false
+    },
+    "Engine + Love": {
+      "result": "Marriage",
+      "emoji": "💍",
+      "isNew": false
+    },
+    "Engine + Shower": {
+      "result": "Car Wash",
+      "emoji": "🚗",
+      "isNew": false
+    },
+    "Engine + Bacon": {
+      "result": "Pig",
+      "emoji": "🐷",
+      "isNew": false
+    },
+    "Engine + Planet": {
+      "result": "Saturn",
+      "emoji": "🪐",
+      "isNew": false
+    },
+    "Engine + Cough": {
+      "result": "Choo Choo",
+      "emoji": "🚂",
+      "isNew": false
+    },
+    "Engine + Skull": {
+      "result": "SteamPunk",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "Engine + Ham": {
+      "result": "Piston",
+      "emoji": "🔧",
+      "isNew": false
+    },
+    "Engine + Hell": {
+      "result": "Engineer",
+      "emoji": "👷",
+      "isNew": false
+    },
+    "Engine + Racecar": {
+      "result": "Speed",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "Engine + Transformer": {
+      "result": "Optimus Prime",
+      "emoji": "🚚",
+      "isNew": false
+    },
+    "Engine + Time Machine": {
+      "result": "Time Travel",
+      "emoji": "⏰",
+      "isNew": false
+    },
+    "Engine + Tractor": {
+      "result": "Tank",
+      "emoji": "🛢️",
+      "isNew": false
+    },
+    "Engine + Parachute": {
+      "result": "Paraglider",
+      "emoji": "🪂",
+      "isNew": false
+    },
+    "Engine + Solar Sail": {
+      "result": "Solar Engine",
+      "emoji": "☀️",
+      "isNew": false
+    },
+    "Engine + Marriage": {
+      "result": "Divorce",
+      "emoji": "💔",
+      "isNew": false
+    },
+    "Engine + Pig": {
+      "result": "Piggy Bank",
+      "emoji": "💰",
+      "isNew": false
+    },
+    "Engine + Speed": {
+      "result": "Race",
+      "emoji": "🏁",
+      "isNew": false
+    },
+    "Engine + Paraglider": {
+      "result": "Jetpack",
+      "emoji": "🛸",
+      "isNew": false
+    },
+    "Volcano + Tsunami": {
+      "result": "Earthquake",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Volcano + Ice": {
+      "result": "Ice Cream",
+      "emoji": "🍦",
+      "isNew": false
+    },
+    "Volcano + Ocean": {
+      "result": "Island",
+      "emoji": "🏝️",
+      "isNew": false
+    },
+    "Volcano + Rainbow": {
+      "result": "Unicorn",
+      "emoji": "🦄",
+      "isNew": false
+    },
+    "Volcano + Dune": {
+      "result": "Mars",
+      "emoji": "🪐",
+      "isNew": false
+    },
+    "Volcano + Mirror": {
+      "result": "Echo",
+      "emoji": "👯",
+      "isNew": false
+    },
+    "Volcano + Statue": {
+      "result": "Pompeii",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Volcano + Desert": {
+      "result": "Cactus",
+      "emoji": "🌵",
+      "isNew": false
+    },
+    "Volcano + Submarine": {
+      "result": "Atlantis",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    "Volcano + Jet Ski": {
+      "result": "Lava Ski",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Volcano + Phoenix": {
+      "result": "Firebird",
+      "emoji": "🐦",
+      "isNew": false
+    },
+    "Volcano + Black Hole": {
+      "result": "Supernova",
+      "emoji": "🌠",
+      "isNew": false
+    },
+    "Volcano + Universe": {
+      "result": "Earth",
+      "emoji": "🌎",
+      "isNew": false
+    },
+    "Volcano + Beach": {
+      "result": "Hawaii",
+      "emoji": "🌺",
+      "isNew": false
+    },
+    "Volcano + Salt": {
+      "result": "Popcorn",
+      "emoji": "🍿",
+      "isNew": false
+    },
+    "Volcano + Venus": {
+      "result": "Vulcan",
+      "emoji": "🖖",
+      "isNew": false
+    },
+    "Volcano + Sea Serpent": {
+      "result": "Krakken",
+      "emoji": "🐙",
+      "isNew": false
+    },
+    "Volcano + Sponge": {
+      "result": "Pumice",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Volcano + Leviathan": {
+      "result": "Krakatoa",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Volcano + Sailboat": {
+      "result": "Sailor",
+      "emoji": "⛵️",
+      "isNew": false
+    },
+    "Volcano + Smell": {
+      "result": "Sulfur",
+      "emoji": "💩",
+      "isNew": false
+    },
+    "Volcano + Air Conditioner": {
+      "result": "Lava Lamp",
+      "emoji": "💡",
+      "isNew": false
+    },
+    "Volcano + Galaxy": {
+      "result": "Star",
+      "emoji": "⭐️",
+      "isNew": false
+    },
+    "Volcano + SpongeBob": {
+      "result": "SpongeBob SquarePants",
+      "emoji": "🍍",
+      "isNew": false
+    },
+    "Volcano + Nautilus": {
+      "result": "Ammonite",
+      "emoji": "🦕",
+      "isNew": false
+    },
+    "Volcano + Cyborg": {
+      "result": "Cybertron",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    "Volcano + Eclipse": {
+      "result": "Moon",
+      "emoji": "🌙",
+      "isNew": false
+    },
+    "Volcano + Pirate": {
+      "result": "Treasure",
+      "emoji": "💎",
+      "isNew": false
+    },
+    "Volcano + Bacon": {
+      "result": "Baconator",
+      "emoji": "🍔",
+      "isNew": false
+    },
+    "Volcano + Vape": {
+      "result": "Vapecano",
+      "emoji": "💨",
+      "isNew": false
+    },
+    "Volcano + Ham": {
+      "result": "Pork",
+      "emoji": "🐷",
+      "isNew": false
+    },
+    "Volcano + Hell": {
+      "result": "Satan",
+      "emoji": "😈",
+      "isNew": false
+    },
+    "Volcano + Meteor": {
+      "result": "Meteorite",
+      "emoji": "💫",
+      "isNew": false
+    },
+    "Volcano + Transformer": {
+      "result": "Dinosaur",
+      "emoji": "🦖",
+      "isNew": false
+    },
+    "Volcano + Saltwater": {
+      "result": "Soda",
+      "emoji": "🥤",
+      "isNew": false
+    },
+    "Volcano + Washing Machine": {
+      "result": "Laundry",
+      "emoji": "🧺",
+      "isNew": false
+    },
+    "Volcano + Optimus Prime": {
+      "result": "Optimus Magma",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Volcano + Race": {
+      "result": "Racer",
+      "emoji": "🏎️",
+      "isNew": false
+    },
+    "Volcano + Ice Cream": {
+      "result": "Lava Cake",
+      "emoji": "🍮",
+      "isNew": false
+    },
+    "Volcano + Unicorn": {
+      "result": "Pegasus",
+      "emoji": "🦄",
+      "isNew": false
+    },
+    "Volcano + Mars": {
+      "result": "Olympus Mons",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Volcano + Popcorn": {
+      "result": "Popocatepetl",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Volcano + SpongeBob SquarePants": {
+      "result": "Spongeorc",
+      "emoji": "🧽",
+      "isNew": false
+    },
+    "Volcano + Ammonite": {
+      "result": "Ammonoid",
+      "emoji": "🦕",
+      "isNew": false
+    },
+    "Volcano + Cybertron": {
+      "result": "Megatron",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    "Volcano + Laundry": {
+      "result": "Dirty Laundry",
+      "emoji": "👕",
+      "isNew": false
+    },
+    "Volcano + Megatron": {
+      "result": "Dinobot",
+      "emoji": "🦖",
+      "isNew": false
+    },
+    "Volcano + Dirty Laundry": {
+      "result": "Mt. Vesuvius",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Lava + Stone": {
+      "result": "Obsidian",
+      "emoji": "🔪",
+      "isNew": false
+    },
+    "Lava + Fish": {
+      "result": "Salamander",
+      "emoji": "🐢",
+      "isNew": false
+    },
+    "Lava + Electricity": {
+      "result": "Magma",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Lava + Surfer": {
+      "result": "Surfboard",
+      "emoji": "🏄",
+      "isNew": false
+    },
+    "Lava + Goldfish": {
+      "result": "Gold",
+      "emoji": "💛",
+      "isNew": false
+    },
+    "Lava + Mud": {
+      "result": "Clay",
+      "emoji": "🏺",
+      "isNew": false
+    },
+    "Lava + Soup": {
+      "result": "Stone Soup",
+      "emoji": "🍲",
+      "isNew": false
+    },
+    "Lava + Solar Wind": {
+      "result": "Solar Flare",
+      "emoji": "🌞",
+      "isNew": false
+    },
+    "Lava + Vampire": {
+      "result": "Bat",
+      "emoji": "🦇",
+      "isNew": false
+    },
+    "Lava + Ham": {
+      "result": "Pizza",
+      "emoji": "🍕",
+      "isNew": false
+    },
+    "Lava + Transformer": {
+      "result": "Volcanicus",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Lava + Lava Ski": {
+      "result": "Lava Skier",
+      "emoji": "🌋",
+      "isNew": false
+    },
+    "Lava + Ammonite": {
+      "result": "Ammolite",
+      "emoji": "🌌",
+      "isNew": false
+    },
+    "Lava + Megatron": {
+      "result": "Voltron",
+      "emoji": "🐉",
+      "isNew": false
+    },
+    "Wave + Statue": {
+      "result": "Mermaid",
+      "emoji": "🧜‍♀️",
+      "isNew": false
+    },
+    "Wave + Windshield": {
+      "result": "Wiper",
+      "emoji": "🚿",
+      "isNew": false
+    },
+    "Wave + Tesla": {
+      "result": "Radio",
+      "emoji": "📻",
+      "isNew": false
+    },
+    "Wave + Sun": {
+      "result": "Sunset",
+      "emoji": "🌅",
+      "isNew": false
+    },
+    "Wave + Bird": {
+      "result": "Seagull",
+      "emoji": "🐦",
+      "isNew": false
+    },
+    "Wave + Sea Serpent": {
+      "result": "Poseidon",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    "Wave + Penguin": {
+      "result": "Tuxedo",
+      "emoji": "🎩",
+      "isNew": false
+    },
+    "Wave + Amoeba": {
+      "result": "Crab",
+      "emoji": "🦀",
+      "isNew": false
+    },
+    "Wave + Sailboat": {
+      "result": "Shipwreck",
+      "emoji": "🚢",
+      "isNew": false
+    },
+    "Wave + Paramecium": {
+      "result": "Ciliate",
+      "emoji": "🔬",
+      "isNew": false
+    },
+    "Wave + Photographer": {
+      "result": "Snap",
+      "emoji": "👻",
+      "isNew": false
+    },
+    "Wave + Led Zeppelin": {
+      "result": "Stairway to Heaven",
+      "emoji": "🎸",
+      "isNew": false
+    },
+    "Wave + Ham": {
+      "result": "Ham Radio",
+      "emoji": "📻",
+      "isNew": false
+    },
+    "Wave + Saturn": {
+      "result": "Titan",
+      "emoji": "🌎",
+      "isNew": false
+    },
+    "Wave + Unicorn": {
+      "result": "Sea Horse",
+      "emoji": "🦑",
+      "isNew": false
+    },
+    "Wave + Echo": {
+      "result": "Reverb",
+      "emoji": "🎸",
+      "isNew": false
+    },
+    "Wave + Popcorn": {
+      "result": "Microwave",
+      "emoji": "🍳",
+      "isNew": false
+    },
+    "Wave + Cybertron": {
+      "result": "Soundwave",
+      "emoji": "🔉",
+      "isNew": false
+    },
+    "Wave + Moon": {
+      "result": "Tide",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    "Wave + Megatron": {
+      "result": "Tidal Wave",
+      "emoji": "🌊",
+      "isNew": false
+    },
+    "Wave + Salamander": {
+      "result": "Sea Monster",
+      "emoji": "🐙",
+      "isNew": false
+    },
+    "Wave + Clay": {
+      "result": "Pottery",
+      "emoji": "🏺",
+      "isNew": false
+    },
+    "Wave + Mermaid": {
+      "result": "Siren",
+      "emoji": "🚨",
+      "isNew": false
+    },
+    "Wave + Radio": {
+      "result": "Signal",
+      "emoji": "📶",
+      "isNew": false
+    },
+    "Wave + Sunset": {
+      "result": "Sunrise",
+      "emoji": "🌅",
+      "isNew": false
+    },
+    "Wave + Ham Radio": {
+      "result": "Radio Wave",
+      "emoji": "📻",
+      "isNew": false
+    },
+    "Wave + Sea Horse": {
+      "result": "Seahorse",
+      "emoji": "🐠",
+      "isNew": false
+    },
+    "Wave + Microwave": {
+      "result": "Radar",
+      "emoji": "📡",
+      "isNew": false
+    },
+    "Wave + Pottery": {
+      "result": "Amphora",
+      "emoji": "🏺",
+      "isNew": false
+    },
+    "Wave + Seahorse": {
+      "result": "Seashell",
+      "emoji": "🐚",
+      "isNew": false
+    },
+    "Wave + Radar": {
+      "result": "Sonar",
+      "emoji": "🔭",
+      "isNew": false
+    },
+    "Cloud + Fish": {
+      "result": "Rainbow Trout",
+      "emoji": "🐟",
+      "isNew": false
+    },
+    "Cloud + Statue": {
+      "result": "Zeus",
+      "emoji": "⚡️",
+      "isNew": false
+    },
+    "Cloud + Ozymandias": {
+      "result": "Rime",
+      "emoji": "🌨️",
+      "isNew": false
+    },
+    "Cloud + Sandbox": {
+      "result": "Sandcastle",
+      "emoji": "🏖️",
+      "isNew": false
+    },
+    "Cloud + Car": {
+      "result": "Flying Car",
+      "emoji": "🚗",
+      "isNew": false
+    },
+    "Cloud + Rocket": {
+      "result": "UFO",
+      "emoji": "🛸",
+      "isNew": false
+    },
+    "Cloud + Robot": {
+      "result": "Robocloud",
+      "emoji": "🤖",
+      "isNew": false
+    },
+    "Cloud + Sea Serpent": {
+      "result": "Kraken",
+      "emoji": "🐙",
       "isNew": false
     }
   }

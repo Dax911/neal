@@ -70,7 +70,9 @@ async function runPuppeteer(url) {
                         break; // Exit the loop if the uniqueItems array reaches 1000 items
                     }
                     // Introduce a delay to avoid rate limiting (adjust as needed)
-                    await page.waitForTimeout(200);
+                    const randomDelay = Math.floor(Math.random() * (500 - 100 + 1)) + 100;
+                    console.log(`Waiting for ${randomDelay} milliseconds...`);
+                    await page.waitForTimeout(randomDelay);
                 }
                 if (appState.uniqueItems.length >= 1000) {
                     break; // Exit the loop if the uniqueItems array reaches 1000 items
@@ -86,6 +88,12 @@ async function runPuppeteer(url) {
     }
     catch (error) {
         console.error('Error:', error);
+        if (error instanceof Error) {
+            // Check if it's a SyntaxError (JSON parsing error)
+            if (error.name === 'SyntaxError') {
+                console.log('HTML Response:', await page.content());
+            }
+        }
         console.log('Closing Puppeteer...');
         await browser.close();
         return 'Puppeteer run encountered an error!';

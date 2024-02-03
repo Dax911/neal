@@ -1,16 +1,25 @@
-// src/index.ts
 import puppeteer from 'puppeteer';
-import * as fs from 'fs';
-import * as path from 'path';
+import fs from 'fs';
+import path from 'path';
 
-// Define an interface for the API response
-interface ApiResponse {
+interface Recipe {
   result: string;
   emoji: string;
   isNew: boolean;
 }
 
-async function runPuppeteer(url: string): Promise<string> {
+interface Recipes {
+  [key: string]: Recipe;
+}
+
+interface AppState {
+  combinations: string[];
+  resultArray: Recipe[];
+  uniqueItems: string[];
+  recipes: Recipes;
+}
+
+async function runPuppeteer(url: string) {
   console.log('Launching Puppeteer...');
   const browser = await puppeteer.launch({ headless: false }); // Launch with a visible browser
   const page = await browser.newPage();
@@ -18,81 +27,101 @@ async function runPuppeteer(url: string): Promise<string> {
   console.log('Navigating to the target URL...');
   await page.goto(url, { waitUntil: 'domcontentloaded' });
 
-  const combinations = ['fire', 'water', 'wind']; // Initial elements
-  const resultArray: ApiResponse[] = []; // Specify the type using the ApiResponse interface
-  const recipesFilePath = path.join(__dirname, 'recipes.json');
-  let recipes: { [key: string]: any } = {};
+  const stateFilePath = path.join(__dirname, 'state.json');
 
-  // Check if the recipes file exists
-  if (fs.existsSync(recipesFilePath)) {
-    // Read the existing recipes from the file
-    const fileContent = fs.readFileSync(recipesFilePath, 'utf-8');
-    recipes = JSON.parse(fileContent);
+  let appState: AppState = {
+    combinations: ['fire', 'water', 'wind'],
+    resultArray: [],
+    uniqueItems: [],
+    recipes: {},
+  };
+
+  // Load the previous state if the state file exists
+  if (fs.existsSync(stateFilePath)) {
+    const stateFileContent = fs.readFileSync(stateFilePath, 'utf-8');
+    appState = JSON.parse(stateFileContent);
   }
 
-  while (resultArray.length < 1000) {
-    for (let i = 0; i < combinations.length - 1; i++) {
-      for (let j = i + 1; j < combinations.length; j++) {
-        const firstElement = combinations[i];
-        const secondElement = combinations[j];
+  try {
+    while (appState.uniqueItems.length < 1000) {
+      for (let i = 0; i < appState.combinations.length - 1; i++) {
+        for (let j = i + 1; j < appState.combinations.length; j++) {
+          const firstElement = appState.combinations[i];
+          const secondElement = appState.combinations[j];
 
-        console.log(`Making API request for pair: ${firstElement} and ${secondElement}...`);
+          console.log(`Making API request for pair: ${firstElement} and ${secondElement}...`);
 
-        // Make API requests with the pair of elements
-        const apiUrl = `https://neal.fun/api/infinite-craft/pair?first=${firstElement}&second=${secondElement}`;
-        const apiResponse = await page.evaluate(async (url) => {
-          const response = await fetch(url, {
-            method: 'GET',
-          });
+          // Make API requests with the pair of elements
+          const apiUrl = `https://neal.fun/api/infinite-craft/pair?first=${firstElement}&second=${secondElement}`;
+          const apiResponse = await page.evaluate(async (url) => {
+            const response = await fetch(url, {
+              method: 'GET',
+            });
 
-          const responseData: ApiResponse = await response.json(); // Specify the type using the ApiResponse interface
-          console.log('API Response Data:', responseData);
+            const responseData = await response.json();
+            console.log('API Response Data:', responseData);
 
-          return responseData;
-        }, apiUrl);
+            return responseData;
+          }, apiUrl);
 
-        // Check if the result is unique and not already in the resultArray
-        if (!resultArray.some((item) => item.result === apiResponse.result)) {
-          resultArray.push(apiResponse);
+          // Check if the result is unique and not already in the resultArray
+          if (!appState.resultArray.some((item) => item.result === apiResponse.result)) {
+            appState.resultArray.push({
+              result: apiResponse.result,
+              emoji: apiResponse.emoji,
+              isNew: apiResponse.isNew,
+            });
 
-          // Add new result words to the combinations array only once
-          if (!combinations.includes(apiResponse.result)) {
-            combinations.push(apiResponse.result);
+            // Check if the result is unique and not already in the uniqueItems array
+            if (!appState.uniqueItems.includes(apiResponse.result)) {
+              appState.uniqueItems.push(apiResponse.result);
+            }
+
+            // Add new result words to the combinations array only once
+            if (!appState.combinations.includes(apiResponse.result)) {
+              appState.combinations.push(apiResponse.result);
+            }
+
+            // Create a new JSON object to store the recipes
+            appState.recipes[`${firstElement} + ${secondElement}`] = {
+              result: apiResponse.result,
+              emoji: apiResponse.emoji,
+              isNew: apiResponse.isNew,
+            };
+
+            // Write the current state to the file after every request
+            fs.writeFileSync(stateFilePath, JSON.stringify(appState, null, 2));
+
+            console.log(`State saved to: ${stateFilePath}`);
           }
 
-          // Create a new JSON object to store the recipes
-          recipes[`${firstElement} + ${secondElement}`] = {
-            result: apiResponse.result,
-            emoji: apiResponse.emoji,
-            isNew: apiResponse.isNew,
-          };
+          if (appState.uniqueItems.length >= 1000) {
+            break; // Exit the loop if the uniqueItems array reaches 1000 items
+          }
 
-          // Write the updated recipes back to the file
-          fs.writeFileSync(recipesFilePath, JSON.stringify(recipes, null, 2));
-
-          console.log(`Recipes appended to: ${recipesFilePath}`);
+          // Introduce a delay to avoid rate limiting (adjust as needed)
+          await page.waitForTimeout(200);
         }
-
-        if (resultArray.length >= 1000) {
-          break; // Exit the loop if the resultArray reaches 1000 items
+        if (appState.uniqueItems.length >= 1000) {
+          break; // Exit the loop if the uniqueItems array reaches 1000 items
         }
-
-        // Introduce a delay to avoid rate limiting (adjust as needed)
-        await page.waitForTimeout(200);
-      }
-      if (resultArray.length >= 1000) {
-        break; // Exit the loop if the resultArray reaches 1000 items
       }
     }
+
+    console.log('API Responses:', appState.resultArray);
+    console.log('Unique Items:', appState.uniqueItems);
+    console.log('Recipes:', appState.recipes);
+
+    console.log('Closing Puppeteer...');
+    await browser.close();
+
+    return 'Puppeteer run completed successfully!';
+  } catch (error) {
+    console.error('Error:', error);
+    console.log('Closing Puppeteer...');
+    await browser.close();
+    return 'Puppeteer run encountered an error!';
   }
-
-  console.log('API Responses:', resultArray);
-  console.log('Recipes:', recipes);
-
-  console.log('Closing Puppeteer...');
-  await browser.close();
-
-  return 'Puppeteer run completed successfully!';
 }
 
 // Replace 'https://neal.fun/infinite-craft/' with the target URL

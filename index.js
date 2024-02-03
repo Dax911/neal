@@ -1,4 +1,6 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs');
+const path = require('path');
 
 async function runPuppeteer(url) {
   console.log('Launching Puppeteer...');
@@ -12,7 +14,7 @@ async function runPuppeteer(url) {
   const resultArray = [];
   const recipes = {};
 
-  while (resultArray.length < 100) {
+  while (resultArray.length < 1000) {
     for (let i = 0; i < combinations.length - 1; i++) {
       for (let j = i + 1; j < combinations.length; j++) {
         const firstElement = combinations[i];
@@ -51,6 +53,9 @@ async function runPuppeteer(url) {
         if (resultArray.length >= 100) {
           break; // Exit the loop if the resultArray reaches 100 items
         }
+
+        // Introduce a delay to avoid rate limiting (adjust as needed)
+        await page.waitForTimeout(200);
       }
       if (resultArray.length >= 100) {
         break; // Exit the loop if the resultArray reaches 100 items
@@ -60,6 +65,17 @@ async function runPuppeteer(url) {
 
   console.log('API Responses:', resultArray);
   console.log('Recipes:', recipes);
+
+  // Generate a timestamp for the file name
+  const timestamp = new Date().toISOString().replace(/[-T:]/g, '').split('.')[0];
+
+  // Create the file path
+  const filePath = path.join(__dirname, `recipes_${timestamp}.json`);
+
+  // Write the recipes to the file
+  fs.writeFileSync(filePath, JSON.stringify(recipes, null, 2));
+
+  console.log(`Recipes saved to: ${filePath}`);
 
   console.log('Closing Puppeteer...');
   await browser.close();

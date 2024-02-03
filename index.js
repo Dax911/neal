@@ -12,7 +12,15 @@ async function runPuppeteer(url) {
 
   const combinations = ['fire', 'water', 'wind']; // Initial elements
   const resultArray = [];
-  const recipes = {};
+  const recipesFilePath = path.join(__dirname, 'recipes.json');
+  let recipes = {};
+
+  // Check if the recipes file exists
+  if (fs.existsSync(recipesFilePath)) {
+    // Read the existing recipes from the file
+    const fileContent = fs.readFileSync(recipesFilePath, 'utf-8');
+    recipes = JSON.parse(fileContent);
+  }
 
   while (resultArray.length < 1000) {
     for (let i = 0; i < combinations.length - 1; i++) {
@@ -35,47 +43,43 @@ async function runPuppeteer(url) {
           return responseData;
         }, apiUrl);
 
-        // Add the API response to the result array
-        resultArray.push(apiResponse);
+        // Check if the result is unique and not already in the resultArray
+        if (!resultArray.some((item) => item.result === apiResponse.result)) {
+          resultArray.push(apiResponse);
 
-        // Add new result words to the combinations array only once
-        if (!combinations.includes(apiResponse.result)) {
-          combinations.push(apiResponse.result);
+          // Add new result words to the combinations array only once
+          if (!combinations.includes(apiResponse.result)) {
+            combinations.push(apiResponse.result);
+          }
+
+          // Create a new JSON object to store the recipes
+          recipes[`${firstElement} + ${secondElement}`] = {
+            result: apiResponse.result,
+            emoji: apiResponse.emoji,
+            isNew: apiResponse.isNew,
+          };
+
+          // Write the updated recipes back to the file
+          fs.writeFileSync(recipesFilePath, JSON.stringify(recipes, null, 2));
+
+          console.log(`Recipes appended to: ${recipesFilePath}`);
         }
 
-        // Create a new JSON object to store the recipes
-        recipes[`${firstElement} + ${secondElement}`] = {
-          result: apiResponse.result,
-          emoji: apiResponse.emoji,
-          isNew: apiResponse.isNew,
-        };
-
-        if (resultArray.length >= 100) {
-          break; // Exit the loop if the resultArray reaches 100 items
+        if (resultArray.length >= 1000) {
+          break; // Exit the loop if the resultArray reaches 1000 items
         }
 
         // Introduce a delay to avoid rate limiting (adjust as needed)
         await page.waitForTimeout(200);
       }
-      if (resultArray.length >= 100) {
-        break; // Exit the loop if the resultArray reaches 100 items
+      if (resultArray.length >= 1000) {
+        break; // Exit the loop if the resultArray reaches 1000 items
       }
     }
   }
 
   console.log('API Responses:', resultArray);
   console.log('Recipes:', recipes);
-
-  // Generate a timestamp for the file name
-  const timestamp = new Date().toISOString().replace(/[-T:]/g, '').split('.')[0];
-
-  // Create the file path
-  const filePath = path.join(__dirname, `recipes_${timestamp}.json`);
-
-  // Write the recipes to the file
-  fs.writeFileSync(filePath, JSON.stringify(recipes, null, 2));
-
-  console.log(`Recipes saved to: ${filePath}`);
 
   console.log('Closing Puppeteer...');
   await browser.close();

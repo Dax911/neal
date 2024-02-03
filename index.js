@@ -8,35 +8,58 @@ async function runPuppeteer(url) {
   console.log('Navigating to the target URL...');
   await page.goto(url, { waitUntil: 'domcontentloaded' });
 
-  const combinations = ['fire', 'water', 'wind']; // Add more elements as needed
+  const combinations = ['fire', 'water', 'wind']; // Initial elements
   const resultArray = [];
+  const recipes = {};
 
-  for (let i = 0; i < combinations.length - 1; i++) {
-    for (let j = i + 1; j < combinations.length; j++) {
-      const firstElement = combinations[i];
-      const secondElement = combinations[j];
+  while (resultArray.length < 100) {
+    for (let i = 0; i < combinations.length - 1; i++) {
+      for (let j = i + 1; j < combinations.length; j++) {
+        const firstElement = combinations[i];
+        const secondElement = combinations[j];
 
-      console.log(`Making API request for pair: ${firstElement} and ${secondElement}...`);
+        console.log(`Making API request for pair: ${firstElement} and ${secondElement}...`);
 
-      // Make API requests with the pair of elements
-      const apiUrl = `https://neal.fun/api/infinite-craft/pair?first=${firstElement}&second=${secondElement}`;
-      const apiResponse = await page.evaluate(async (url) => {
-        const response = await fetch(url, {
-          method: 'GET',
-        });
+        // Make API requests with the pair of elements
+        const apiUrl = `https://neal.fun/api/infinite-craft/pair?first=${firstElement}&second=${secondElement}`;
+        const apiResponse = await page.evaluate(async (url) => {
+          const response = await fetch(url, {
+            method: 'GET',
+          });
 
-        const responseData = await response.json();
-        console.log('API Response Data:', responseData);
+          const responseData = await response.json();
+          console.log('API Response Data:', responseData);
 
-        return responseData;
-      }, apiUrl);
+          return responseData;
+        }, apiUrl);
 
-      // Add the API response to the result array
-      resultArray.push(apiResponse);
+        // Add the API response to the result array
+        resultArray.push(apiResponse);
+
+        // Add new result words to the combinations array only once
+        if (!combinations.includes(apiResponse.result)) {
+          combinations.push(apiResponse.result);
+        }
+
+        // Create a new JSON object to store the recipes
+        recipes[`${firstElement} + ${secondElement}`] = {
+          result: apiResponse.result,
+          emoji: apiResponse.emoji,
+          isNew: apiResponse.isNew,
+        };
+
+        if (resultArray.length >= 100) {
+          break; // Exit the loop if the resultArray reaches 100 items
+        }
+      }
+      if (resultArray.length >= 100) {
+        break; // Exit the loop if the resultArray reaches 100 items
+      }
     }
   }
 
   console.log('API Responses:', resultArray);
+  console.log('Recipes:', recipes);
 
   console.log('Closing Puppeteer...');
   await browser.close();
